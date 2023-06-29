@@ -1,6 +1,5 @@
 /*
  Lora Node1
-https://www.electroniclinic.com/
 
 */
 #include <SPI.h>  // include libraries
